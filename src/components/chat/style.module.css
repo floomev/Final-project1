@@ -1,0 +1,13 @@
+.chat {
+    width: 500px;
+    height: 700px;
+    border: 5px solid black;
+    background-color: rgba(171, 115, 185, 0.39);
+    font-size: 20px;
+    margin-top: 20px;
+   
+   
+}
+.mainDiv {
+    margin-top: 70px;
+}

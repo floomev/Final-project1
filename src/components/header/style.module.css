@@ -1,0 +1,15 @@
+.container {
+    background-color: rgba(135, 6, 240, 0.473);
+    height: 70px;
+    display: flex;
+    justify-content: center;
+}
+.navbar {
+    width: 700px;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 30px;
+   
+}
